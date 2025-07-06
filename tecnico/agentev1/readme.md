@@ -6,9 +6,6 @@ Questa versione dell'agente è in grado di rispondere a runtime a domande genera
 
 run cella 1
 
-```bash
-pip install foobar
-```
 
 ## Usage
 
