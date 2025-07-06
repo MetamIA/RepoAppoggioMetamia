@@ -9,7 +9,7 @@ run cella 1
 
 ## Usage
 
-mettere i file presenti in questa cartella nel runtime di colab
+mettere i file presenti in questa cartella nel runtime di colab\n
 runnare in sequennza le varie celle 
 enjoy!
 
